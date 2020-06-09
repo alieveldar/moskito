@@ -753,6 +753,9 @@ if ( ! function_exists( 'adventure_tours_get_tour_booking_range' ) ) {
 			if ( $length < 1 ) {
 				$length = 1;
 			}
+			if ($length == 365){
+				$length *=3;
+			}
 		}
 
 		$min_time = strtotime( '+' . $start_days_in . ' day' );

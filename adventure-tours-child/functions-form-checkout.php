@@ -45,6 +45,7 @@ function moskito_checkout_persons_fields( $fields ) {
             'validate' => false,
             'class' => ['form-row-first'],
             'label' => __('First name', 'adventure-tours-child'),
+            'attributes' => array('autocomplete' => false),
         ], $fields->get_value( $field_name ));
 
         $field_name = 'billing_last_name' . $suffix;
@@ -165,6 +166,7 @@ function moskito_checkout_other_fields( $fields ) {
         'type' => 'file',
         'default' => 0,
         'class' => ['form-row-wide'],
+        'multiple' => true,
         'label' => __('Weitere Dateien zu ihrer Buchung z.B. Kopie Reisepassseite bitte hier einfügen / hochladen', 'adventure-tours-child'),
     ];
     $fields['billing']['billing_room_request'] = [
@@ -309,7 +311,7 @@ function moskito_checkout_additional_terms() {
 add_action( 'woocommerce_after_checkout_validation', 'moskito_checkout_all_terms_checked', 10, 2);
 function moskito_checkout_all_terms_checked( $fields, $errors ) {
     $all_terms = true;
-    foreach([/*'agb', 'privacy_policy',*/ 'received_form'] as $v) {
+    foreach([/*'agb', 'privacy_policy',*/ 'received_form-'] as $v) {
         $all_terms = $all_terms && isset($_POST['terms_' . $v]) && $_POST['terms_' . $v];
     }
     if ( !$all_terms ) {
