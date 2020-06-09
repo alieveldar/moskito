@@ -1,0 +1,173 @@
+<wpml-config>
+	<custom-fields>
+		<custom-field action="copy">tour_booking_periods</custom-field>
+		<custom-field action="copy">_variable_tour</custom-field>
+	</custom-fields>
+	<admin-texts>
+		<key name="adventure_tours_theme_options">
+			<key name="banner_default_subtitle" />
+			<key name="contact_phone" />
+			<key name="contact_time" />
+			<key name="footer_text_note" />
+			<key name="tour_badge_1_title" />
+			<key name="tour_badge_2_title" />
+			<key name="tour_badge_3_title" />
+			<key name="tours_search_form_title" />
+			<key name="tours_search_form_note" />
+			<key name="excerpt_text" />
+			<key name="faq_show_question_form" />
+			<key name="tours_page" />
+		</key>
+	</admin-texts>
+	<shortcodes>
+		<shortcode>
+			<tag>accordion</tag>
+			<attributes>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>tabs</tag>
+			<attributes>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>title</tag>
+			<attributes>
+				<attribute>text</attribute>
+				<attribute>subtitle</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>social_icons</tag>
+			<attributes>
+				<attribute>title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>contact_info</tag>
+			<attributes>
+				<attribute>address</attribute>
+				<attribute>phone</attribute>
+				<attribute>mobile</attribute>
+				<attribute>email</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>mailchimp_form</tag>
+			<attributes>
+				<attribute>button_text</attribute>
+				<attribute>title</attribute>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>google_map</tag>
+			<attributes>
+				<attribute>address</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>timeline_item</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>icon_item</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute type="link">title_url</attribute>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>at_btn</tag>
+			<attributes>
+				<attribute>text</attribute>
+				<attribute type="link">url</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>latest_posts</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>read_more_text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>tour_search_form</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>note</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>tour_search_form_horizontal</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>note</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>tour_category_images</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>sub_title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>tour_category_icons</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>sub_title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>tour_carousel</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>sub_title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>product_carousel</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>sub_title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>tours_grid</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>sub_title</attribute>
+				<attribute>btn_more_text</attribute>
+				<attribute type="link">btn_more_link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>tours_list</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>sub_title</attribute>
+				<attribute>btn_more_text</attribute>
+				<attribute type="link">btn_more_link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>tour_reviews</tag>
+			<attributes>
+				<attribute>title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>rev_slider_vc</tag>
+			<attributes>
+				<attribute>title</attribute>
+			</attributes>
+		</shortcode>
+	</shortcodes>
+</wpml-config>

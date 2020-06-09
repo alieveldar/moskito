@@ -1,0 +1,43 @@
+.tour-single{
+	&-rise{
+		margin-top:-214px;
+		position:relative;
+		z-index:1;
+	}
+}
+
+// Responsive
+@media(max-width:@responsive-breakpoint2){
+	.tour-single{
+		&-rise{
+			margin-top:0;
+		}
+	}
+}
+
+
+// Booking form wrappers
+.booking-form-wrapper--under-tabs{
+	margin-top:40px;
+
+	.price-decoration__label-round{
+		top:-30px;
+	}
+}
+
+.booking-form-wrapper--above-tabs{
+	margin-bottom:50px;
+
+	@media(min-width:@responsive-breakpoint2){
+		.price-decoration{
+			margin-top:0 !important;
+			margin-bottom:40px;
+		}
+	}
+}
+
+@media(min-width:@responsive-breakpoint2){
+	.tour-single-rise .booking-form-wrapper--above-tabs{
+		padding-top:50px;
+	}
+}

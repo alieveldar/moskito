@@ -1,0 +1,3295 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: adventure-tours 3.5.5\n"
+"POT-Creation-Date: 2018-11-07 11:01+0200\n"
+"PO-Revision-Date: 2016-07-29 18:32+0300\n"
+"Last-Translator: Themedelight <themedelight@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: __:1;_e:1;_n:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;"
+"esc_attr__:1;esc_attr_e:1;esc_attr_x:1,2c;esc_html__:1;esc_html_e:1;"
+"esc_html_x:1,2c;gettext_noop\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: author.php:16
+msgid "The user has no posts yet."
+msgstr ""
+
+#: comments.php:25 includes/classes/AtBookingForm.php:44
+#: includes/classes/AtWidgetTourCategories.php:38
+#: templates/shortcodes/faq_question_form.php:27
+#: woocommerce/single-product-reviews.php:68
+msgid "Name"
+msgstr ""
+
+#: comments.php:29 includes/classes/AtWidgetContactUs.php:93
+#: templates/shortcodes/faq_question_form.php:30
+#: woocommerce/includes/reports/WC_Report_ADT_Tourfull.php:221
+#: woocommerce/order/order-details-customer.php:34
+#: woocommerce/order/order-details-customer.php:35
+#: woocommerce/single-product-reviews.php:71
+msgid "Email"
+msgstr ""
+
+#: comments.php:33
+msgid "Website"
+msgstr ""
+
+#: comments.php:39
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: comments.php:46
+msgid "Comment"
+msgstr ""
+
+#: comments.php:54
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:75
+msgid "Reply"
+msgstr ""
+
+#: comments.php:94
+msgid "Comments"
+msgstr ""
+
+#: config.php:37 includes/theme-options-config.php:560
+msgid "Home"
+msgstr ""
+
+#: config.php:38
+#, php-format
+msgid "Category %s"
+msgstr ""
+
+#: config.php:39
+#, php-format
+msgid "Result search \"%s\""
+msgstr ""
+
+#: config.php:40
+msgid "Tag"
+msgstr ""
+
+#: config.php:41
+#, php-format
+msgid "Author %s"
+msgstr ""
+
+#: config.php:42
+msgid "Error 404"
+msgstr ""
+
+#: config.php:43
+#, php-format
+msgid "Format %s"
+msgstr ""
+
+#: config.php:178 includes/classes/AtWidgetTours.php:93
+#: includes/metabox/header-section-meta.php:13
+msgid "Display Mode"
+msgstr ""
+
+#: config.php:181 includes/classes/AtTaxonomyHeaderSections.php:83
+#: includes/metabox/header-section-meta.php:18
+#: includes/metabox/header-section-meta.php:119
+#: includes/theme-options-config.php:247 includes/theme-options-config.php:413
+#: includes/theme-options-functions.php:262
+msgid "Default"
+msgstr ""
+
+#: config.php:182 includes/classes/AtWidgetTours.php:15
+#: includes/classes/AtWordpressSEOIntegrationHelper.php:102
+#: includes/shortcodes/menu.php:15 includes/theme-options-config.php:295
+#: includes/theme-options-config.php:556
+#: includes/theme-options-functions.php:219
+#: woocommerce/includes/WC_Tour_Integration_Helper.php:319
+#: woocommerce/includes/WC_Tour_Integration_Helper_Admin.php:306
+#: woocommerce/includes/WC_Tour_Integration_Helper_Admin.php:499
+msgid "Tours"
+msgstr ""
+
+#: config.php:183 includes/theme-options-functions.php:220
+msgid "Categories"
+msgstr ""
+
+#: config.php:184 includes/theme-options-functions.php:221
+msgid "Both"
+msgstr ""
+
+#: config.php:194 includes/metabox/header-section-meta.php:22
+#: includes/metabox/header-section-meta.php:49
+#: includes/theme-options-config.php:62 includes/theme-options-config.php:188
+msgid "Image"
+msgstr ""
+
+#: config.php:197
+msgid "Upload/Add Image"
+msgstr ""
+
+#: config.php:206 woocommerce/includes/WC_Admin_Attributes_Extended.php:120
+msgid "Icon"
+msgstr ""
+
+#: config.php:209 config.php:221
+#: includes/classes/AtTaxonomyHeaderSections.php:88
+#: includes/metabox/header-section-meta.php:124
+#: includes/theme-options-config.php:129 includes/theme-options-config.php:243
+#: includes/theme-options-functions.php:198
+#: includes/theme-options-functions.php:261
+#: woocommerce/includes/WC_Admin_Attributes_Extended.php:72
+#: woocommerce/includes/WC_Admin_Attributes_Extended.php:77
+msgid "None"
+msgstr ""
+
+#: config.php:218 functions.php:540
+#: includes/metabox/header-section-meta.php:152
+msgid "Header Section"
+msgstr ""
+
+#: config.php:227
+#, php-format
+msgid "%s ticket(s) left"
+msgstr ""
+
+#: config.php:233
+msgctxt "date filter fields"
+msgid "Date Filter"
+msgstr ""
+
+#: config.php:234
+msgctxt "date filter fields"
+msgid "Start"
+msgstr ""
+
+#: config.php:235
+msgctxt "date filter fields"
+msgid "End"
+msgstr ""
+
+#: config.php:237
+msgctxt "price filter fields"
+msgid "Price Filter"
+msgstr ""
+
+#: config.php:238
+msgctxt "price filter fields"
+msgid "From"
+msgstr ""
+
+#: config.php:239
+msgctxt "price filter fields"
+msgid "To"
+msgstr ""
+
+#: content-none.php:15
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: content-none.php:16
+msgid "Get started here"
+msgstr ""
+
+#: content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: content-none.php:26 content-none.php:42 templates/header/search.php:18
+msgid "Type in your request..."
+msgstr ""
+
+#: content-none.php:28 content-none.php:44
+msgid "Search"
+msgstr ""
+
+#: content-none.php:37
+msgid "Oops! The page you are looking for is not found!"
+msgstr ""
+
+#: functions.php:137 functions.php:138
+msgid "Theme Options"
+msgstr ""
+
+#: functions.php:214 includes/shortcodes/menu.php:19
+msgid "Tables"
+msgstr ""
+
+#: functions.php:215 includes/shortcodes/menu.php:62
+msgid "Edit"
+msgstr ""
+
+#: functions.php:216 includes/shortcodes/menu.php:165
+msgid "Table"
+msgstr ""
+
+#: functions.php:221 includes/shortcodes/menu.php:170
+msgid "Tour Table"
+msgstr ""
+
+#: functions.php:419
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:420
+msgid "Sidebar located on the right side of blog page."
+msgstr ""
+
+#: functions.php:429
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:430
+msgid "Sidebar located on the right side on pages related to shop."
+msgstr ""
+
+#: functions.php:439
+msgid "Tour Sidebar"
+msgstr ""
+
+#: functions.php:440
+msgid "Sidebar located on the right side on pages related to tour."
+msgstr ""
+
+#: functions.php:449
+msgid "FAQs"
+msgstr ""
+
+#: functions.php:450
+msgid "Sidebar located on the FAQ page."
+msgstr ""
+
+#: functions.php:459 functions.php:471 functions.php:483 functions.php:495
+#, php-format
+msgid "Footer %s"
+msgstr ""
+
+#: functions.php:460
+msgid "Located in 1st column on 4-columns footer layout."
+msgstr ""
+
+#: functions.php:472
+msgid "Located in 2nd column on 4-columns footer layout."
+msgstr ""
+
+#: functions.php:484
+msgid "Located in 3rd column on 4-columns footer layout."
+msgstr ""
+
+#: functions.php:496
+msgid "Located in 4th column on 4-columns footer layout."
+msgstr ""
+
+#: functions.php:514
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:515
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:531
+msgid "Tour Data"
+msgstr ""
+
+#: functions.php:845
+msgid "Sort by default"
+msgstr ""
+
+#: functions.php:846
+msgid "Sort by popularity"
+msgstr ""
+
+#: functions.php:847
+msgid "Sort by average rating"
+msgstr ""
+
+#: functions.php:848
+msgid "Sort by newness (desc)"
+msgstr ""
+
+#: functions.php:849
+msgid "Sort by newness"
+msgstr ""
+
+#: functions.php:850
+msgid "Sort by price: low to hight"
+msgstr ""
+
+#: functions.php:851
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: includes/admin/demo-data-import.php:308
+msgid "System error. Please contact support"
+msgstr ""
+
+#: includes/admin/views/import.php:151
+msgid "Start"
+msgstr ""
+
+#: includes/classes/AtBookingForm.php:45
+#: woocommerce/myaccount/form-login.php:91
+msgid "Email address"
+msgstr ""
+
+#: includes/classes/AtBookingForm.php:46
+msgid "Phone number"
+msgstr ""
+
+#: includes/classes/AtBookingFormBase.php:294
+msgid "Date"
+msgstr ""
+
+#: includes/classes/AtBookingFormBase.php:330 woocommerce/cart/cart.php:34
+#: woocommerce/cart/cart.php:120
+msgid "Quantity"
+msgstr ""
+
+#: includes/classes/AtBookingFormBase.php:331
+msgid "Please enter the amount of tickets."
+msgstr ""
+
+#: includes/classes/AtBookingFormBase.php:407
+msgid "Coupon Code"
+msgstr ""
+
+#: includes/classes/AtBookingFormBase.php:442
+msgid "Booking Date"
+msgstr ""
+
+#: includes/classes/AtBookingFormBase.php:618
+msgid "Fill in the required field."
+msgstr ""
+
+#: includes/classes/AtBookingFormBase.php:625
+msgid "Email invalid."
+msgstr ""
+
+#: includes/classes/AtBookingFormBase.php:634
+msgid "Date invalid."
+msgstr ""
+
+#: includes/classes/AtBookingFormBase.php:646
+#: includes/classes/AtBookingFormBase.php:716
+msgid "Check field format."
+msgstr ""
+
+#: includes/classes/AtBookingFormBase.php:653
+msgid "Min value is"
+msgstr ""
+
+#: includes/classes/AtBookingFormBase.php:659
+msgid "Max value is"
+msgstr ""
+
+#: includes/classes/AtBookingFormBase.php:681
+msgid "There are no tickets for this date."
+msgstr ""
+
+#: includes/classes/AtBookingFormBase.php:704
+#: includes/classes/AtBookingFormBase.php:743
+msgid "Only 1 ticket is left."
+msgid_plural "Only {left_tickets} tickets are left."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/AtBookingFormBase.php:758
+msgid "There are no more tickets available."
+msgstr ""
+
+#: includes/classes/AtBookingFormBase.php:771
+#: includes/classes/AtBookingFormBase.php:1128
+msgid "An error occured, please contact support"
+msgstr ""
+
+#: includes/classes/AtBookingFormBase.php:773
+msgid "This option is unavailable"
+msgstr ""
+
+#: includes/classes/AtBookingFormBase.php:813
+#, php-format
+msgid "%s is a required field"
+msgid_plural "%s are required fields"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/AtBookingFormBase.php:815
+msgid "Please choose product options"
+msgstr ""
+
+#: includes/classes/AtBookingFormBase.php:1471
+#, php-format
+msgid ""
+"Sorry, \"%s\" on %s is no longer available, so it has been removed from your "
+"cart."
+msgstr ""
+
+#: includes/classes/AtBookingFormBase.php:1477
+#, php-format
+msgid ""
+"Sorry, \"%s\" is no longer available, so it has been removed from your cart."
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:74 includes/shortcodes/menu.php:17
+msgid "Typography"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:78
+msgid "Main Font"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:83
+msgid "Size"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:92
+msgid "Main Font Color"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:97
+msgid "Subheading Font"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:102
+msgid "Alternative Text Font"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:107
+msgid "Heading Font"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:112
+msgid "Link Color"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:120
+msgid "General Colors"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:124
+msgid "Main color"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:129
+msgid "Accent color 1"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:134
+msgid "Accent color 2"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:139
+msgid "Form background"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:144
+msgid "Form button background"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:152
+msgid "Header Colors"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:156
+#: includes/classes/AtThemeCustomizer.php:173
+msgid "Background color"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:161
+#: includes/classes/AtThemeCustomizer.php:183
+msgid "Text color"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:169
+msgid "Footer Colors"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:178
+msgid "Heading color"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:188
+msgid "Link color"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:320
+msgid "Reset"
+msgstr ""
+
+#: includes/classes/AtThemeCustomizer.php:321
+msgid ""
+"This will reset all customizations made via customizer to this theme! Are "
+"you sure?"
+msgstr ""
+
+#: includes/classes/AtTourBookingService.php:76
+msgid "Parametes errors. Please contact support"
+msgstr ""
+
+#: includes/classes/AtTourBookingService.php:614
+msgid "Please select at least one day."
+msgstr ""
+
+#: includes/classes/AtTourBookingService.php:616
+#: includes/classes/AtTourBookingService.php:653
+#: includes/classes/AtTourBookingService.php:676
+msgid "The field is required."
+msgstr ""
+
+#: includes/classes/AtTourBookingService.php:628
+msgid "Minimum allowed value is 1."
+msgstr ""
+
+#: includes/classes/AtTourBookingService.php:634
+#: includes/classes/AtTourBookingService.php:640
+#: includes/classes/AtTourBookingService.php:660
+msgid "Please check the date format."
+msgstr ""
+
+#: includes/classes/AtTourBookingService.php:642
+#, php-format
+msgid "The date should be grater than %s."
+msgstr ""
+
+#: includes/classes/AtTourBookingService.php:648
+#: includes/classes/AtTourBookingService.php:671
+#: woocommerce/includes/WC_Tour_Integration_Helper_Admin.php:445
+msgid "Parameters error. Please contact support."
+msgstr ""
+
+#: includes/classes/AtTourBookingService.php:691
+msgid "Please check the time format."
+msgstr ""
+
+#: includes/classes/AtTourBookingService.php:703
+msgid "Please check the format."
+msgstr ""
+
+#: includes/classes/AtTourHelper.php:264
+msgid "Category"
+msgstr ""
+
+#: includes/classes/AtTourHelper.php:566
+#, php-format
+msgid ""
+"You can not use \"%s\" page as tours archive page. Please use separate page "
+"for this purpose."
+msgstr ""
+
+#: includes/classes/AtWidgetAdvancedText.php:15
+#: includes/classes/AtWidgetContactUs.php:89
+#: includes/classes/AtWidgetLatestPosts.php:92
+#: includes/classes/AtWidgetTourCategories.php:30
+#: includes/classes/AtWidgetTours.php:53 includes/metabox/tour-tabs-meta.php:32
+#: includes/shortcodes/menu.php:68 includes/theme-options-config.php:613
+msgid "Title"
+msgstr ""
+
+#: includes/classes/AtWidgetAdvancedText.php:18
+#: includes/metabox/tour-tabs-meta.php:37
+msgid "Content"
+msgstr ""
+
+#: includes/classes/AtWidgetAdvancedText.php:22
+msgid "Style"
+msgstr ""
+
+#: includes/classes/AtWidgetAdvancedText.php:25
+msgid "Plain"
+msgstr ""
+
+#: includes/classes/AtWidgetAdvancedText.php:26
+msgid "Boxed"
+msgstr ""
+
+#: includes/classes/AtWidgetAdvancedText.php:30
+msgid "CSS class"
+msgstr ""
+
+#: includes/classes/AtWidgetAdvancedText.php:33
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: includes/classes/AtWidgetAdvancedText.php:37
+#: includes/classes/AtWidgetTourCategories.php:54
+msgid "Hide empty"
+msgstr ""
+
+#: includes/classes/AtWidgetAdvancedText.php:44
+msgid "Text Advanced"
+msgstr ""
+
+#: includes/classes/AtWidgetContactUs.php:23
+msgid "Contact Us"
+msgstr ""
+
+#: includes/classes/AtWidgetContactUs.php:25
+msgid "Contact Us Widget"
+msgstr ""
+
+#: includes/classes/AtWidgetContactUs.php:90
+msgid "Address"
+msgstr ""
+
+#: includes/classes/AtWidgetContactUs.php:91
+#: includes/theme-options-config.php:115
+#: woocommerce/includes/reports/WC_Report_ADT_Tourfull.php:219
+msgid "Phone"
+msgstr ""
+
+#: includes/classes/AtWidgetContactUs.php:92
+msgid "Mobile"
+msgstr ""
+
+#: includes/classes/AtWidgetContactUs.php:94
+msgid "Skype"
+msgstr ""
+
+#: includes/classes/AtWidgetLatestPosts.php:21 includes/shortcodes/menu.php:497
+#: includes/shortcodes/menu.php:498
+msgid "Latest Posts"
+msgstr ""
+
+#: includes/classes/AtWidgetLatestPosts.php:23
+msgid "Latest Posts Widget"
+msgstr ""
+
+#: includes/classes/AtWidgetLatestPosts.php:87
+#: templates/admin/tour-booking-row.php:29
+msgid "Yes"
+msgstr ""
+
+#: includes/classes/AtWidgetLatestPosts.php:88
+#: includes/theme-options-config.php:353
+#: templates/admin/tour-booking-row.php:28
+msgid "No"
+msgstr ""
+
+#: includes/classes/AtWidgetLatestPosts.php:96
+#: includes/classes/AtWidgetTours.php:89
+msgid "Number of posts to show"
+msgstr ""
+
+#: includes/classes/AtWidgetLatestPosts.php:100
+msgid "Display post date?"
+msgstr ""
+
+#: includes/classes/AtWidgetLatestPosts.php:106
+msgid "Display post image?"
+msgstr ""
+
+#: includes/classes/AtWidgetTourCategories.php:33
+msgid "Order by"
+msgstr ""
+
+#: includes/classes/AtWidgetTourCategories.php:37
+msgid "Category Order"
+msgstr ""
+
+#: includes/classes/AtWidgetTourCategories.php:42
+msgid "Show as dropdown"
+msgstr ""
+
+#: includes/classes/AtWidgetTourCategories.php:46
+msgid "Show item counts"
+msgstr ""
+
+#: includes/classes/AtWidgetTourCategories.php:50
+msgid "Show hierarchy"
+msgstr ""
+
+#: includes/classes/AtWidgetTourCategories.php:66
+#: includes/theme-options-functions.php:110
+msgid "Tour Categories"
+msgstr ""
+
+#: includes/classes/AtWidgetTourCategories.php:94
+msgid "Select category"
+msgstr ""
+
+#: includes/classes/AtWidgetTourCategories.php:102
+msgid "No categories exist."
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:17
+msgid "Tours Widget"
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:59
+msgid "Tour category"
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:60
+#: woocommerce/includes/reports/WC_Report_ADT_Tourfull.php:260
+msgid "Any"
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:73
+msgid "Show"
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:77
+#: woocommerce/includes/reports/WC_Report_ADT_Tourfull.php:213
+msgid "Order"
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:83
+msgid "Tour ids"
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:105
+msgid "Added Date"
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:106
+msgid "Most popular"
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:107
+msgid "Sales"
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:108
+#: includes/classes/AtWidgetTours.php:117
+#: includes/classes/AtWidgetTours.php:118
+#: includes/classes/AtWidgetTours.php:119
+#: includes/classes/AtWidgetTours.php:120 woocommerce/cart/cart.php:33
+#: woocommerce/cart/cart.php:113
+msgid "Price"
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:109
+msgid "Random"
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:110
+msgid "Custom order in Tours ids"
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:113
+msgid "DESC"
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:114
+msgid "ASC"
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:118
+#: includes/classes/AtWidgetTours.php:120
+#: includes/classes/AtWidgetTours.php:122
+#: includes/classes/AtWidgetTours.php:124
+#: includes/classes/AtWidgetTours.php:125
+#: woocommerce/single-product-reviews.php:81
+msgid "Rating"
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:119
+#: includes/classes/AtWidgetTours.php:123
+#: includes/classes/AtWidgetTours.php:125
+#: includes/metabox/tour-tabs-meta.php:12
+msgid "Badge"
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:121
+#: includes/classes/AtWidgetTours.php:122
+msgid "Highlighted Price"
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:128 includes/theme-options-config.php:644
+msgid "All"
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:129
+msgid "Featured"
+msgstr ""
+
+#: includes/classes/AtWidgetTours.php:130 woocommerce/content-product.php:48
+msgid "On Sale"
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:51
+msgid "Please complete the twitter settings in the Twitter widget."
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:106
+msgid "Please verify the settings in the Twitter widget."
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:212
+msgid "Latest Tweets"
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:221
+msgid "Twitter user"
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:225
+msgid "Show item number"
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:229
+msgid "Widget title"
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:232
+msgid "Consumer Key"
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:235
+msgid "Consumer Secret"
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:240
+msgid "Show tweet"
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:240
+msgid "time ago"
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:244
+msgid "Include replies"
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:260
+msgid "right now"
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:264
+msgid " seconds ago"
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:268
+msgid "about 1 minute ago"
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:272
+msgid " minutes ago"
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:276
+msgid "about 1 hour ago"
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:280
+msgid " hours ago"
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:284
+msgid "yesterday"
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:288
+msgid " days ago"
+msgstr ""
+
+#: includes/classes/AtWidgetTwitterTweets.php:292
+msgid "over a year ago"
+msgstr ""
+
+#: includes/metabox/header-section-meta.php:26
+msgid "Slider"
+msgstr ""
+
+#: includes/metabox/header-section-meta.php:30
+msgid "From list"
+msgstr ""
+
+#: includes/metabox/header-section-meta.php:40
+#: includes/theme-options-config.php:179 includes/theme-options-config.php:619
+msgid "Subtitle"
+msgstr ""
+
+#: includes/metabox/header-section-meta.php:59
+#: includes/theme-options-config.php:225
+msgid "Use Parallax"
+msgstr ""
+
+#: includes/metabox/header-section-meta.php:68
+msgid "Image repeat"
+msgstr ""
+
+#: includes/metabox/header-section-meta.php:73
+#: includes/theme-options-config.php:202
+msgid "Repeat"
+msgstr ""
+
+#: includes/metabox/header-section-meta.php:77
+#: includes/theme-options-config.php:206
+msgid "No repeat"
+msgstr ""
+
+#: includes/metabox/header-section-meta.php:81
+#: includes/theme-options-config.php:210
+msgid "Repeat horizontally"
+msgstr ""
+
+#: includes/metabox/header-section-meta.php:85
+#: includes/theme-options-config.php:214
+msgid "Repeat vertically"
+msgstr ""
+
+#: includes/metabox/header-section-meta.php:97
+#: includes/theme-options-config.php:236
+msgid "Mask"
+msgstr ""
+
+#: includes/metabox/header-section-meta.php:187
+msgid "Please install and activate the Slider Revolution plugin."
+msgstr ""
+
+#: includes/metabox/header-section-meta.php:189
+msgid "Please go to Slider Revolution plugin and create a slider."
+msgstr ""
+
+#: includes/metabox/header-section-meta.php:193
+msgid "Choose Slider"
+msgstr ""
+
+#: includes/metabox/tour-tabs-meta.php:28
+msgid "Additional Tab"
+msgstr ""
+
+#: includes/shortcodes/menu.php:21
+msgid "Other"
+msgstr ""
+
+#: includes/shortcodes/menu.php:23
+msgid "Contact"
+msgstr ""
+
+#: includes/shortcodes/menu.php:25
+msgid "External Services"
+msgstr ""
+
+#: includes/shortcodes/menu.php:63
+msgid "Columns"
+msgstr ""
+
+#: includes/shortcodes/menu.php:103
+msgid "Icon Tick"
+msgstr ""
+
+#: includes/shortcodes/menu.php:111
+msgid "Button"
+msgstr ""
+
+#: includes/shortcodes/menu.php:176
+msgid "Tour Search Form"
+msgstr ""
+
+#: includes/shortcodes/menu.php:185
+msgid "Tour Search Form Horizontal"
+msgstr ""
+
+#: includes/shortcodes/menu.php:204
+msgid "Tour Category Images"
+msgstr ""
+
+#: includes/shortcodes/menu.php:217 includes/shortcodes/menu.php:250
+#: includes/shortcodes/menu.php:282 includes/shortcodes/menu.php:326
+#: includes/shortcodes/menu.php:371 includes/shortcodes/menu.php:508
+#: includes/shortcodes/menu.php:566
+msgid "Specify exact ids of items that should be displayed separated by comma."
+msgstr ""
+
+#: includes/shortcodes/menu.php:232
+msgid "Tour Category Icons"
+msgstr ""
+
+#: includes/shortcodes/menu.php:242 includes/shortcodes/menu.php:290
+#: includes/shortcodes/menu.php:457 includes/shortcodes/menu.php:574
+msgid "Select image that should be used as background."
+msgstr ""
+
+#: includes/shortcodes/menu.php:265
+msgid "Tours Carousel"
+msgstr ""
+
+#: includes/shortcodes/menu.php:274 includes/shortcodes/menu.php:318
+#: includes/shortcodes/menu.php:363 includes/shortcodes/menu.php:558
+msgid "Filter items from specific tour category (enter category slug)."
+msgstr ""
+
+#: includes/shortcodes/menu.php:278 includes/shortcodes/menu.php:322
+#: includes/shortcodes/menu.php:367
+msgid ""
+"Specify tour categories ID's (separated by comma) of items that you want to "
+"display."
+msgstr ""
+
+#: includes/shortcodes/menu.php:309
+msgid "Tours Grid"
+msgstr ""
+
+#: includes/shortcodes/menu.php:343 includes/shortcodes/menu.php:380
+msgid "View more"
+msgstr ""
+
+#: includes/shortcodes/menu.php:354
+msgid "Tours List"
+msgstr ""
+
+#: includes/shortcodes/menu.php:391 woocommerce/single-product-reviews.php:22
+msgid "Tour Reviews"
+msgstr ""
+
+#: includes/shortcodes/menu.php:416
+msgid "Contact Info"
+msgstr ""
+
+#: includes/shortcodes/menu.php:423
+msgid "Social Icons"
+msgstr ""
+
+#: includes/shortcodes/menu.php:424
+msgid "We are social"
+msgstr ""
+
+#: includes/shortcodes/menu.php:437
+msgid "MailChimp Form"
+msgstr ""
+
+#: includes/shortcodes/menu.php:444 woocommerce/single-product-reviews.php:75
+msgid "Submit"
+msgstr ""
+
+#: includes/shortcodes/menu.php:470
+msgid "Google Map"
+msgstr ""
+
+#: includes/shortcodes/menu.php:472
+msgid "The address will show up when clicking on the map marker."
+msgstr ""
+
+#: includes/shortcodes/menu.php:475
+msgid "Coordinates separated by comma."
+msgstr ""
+
+#: includes/shortcodes/menu.php:480
+msgid "Number in range from 1 up to 21."
+msgstr ""
+
+#: includes/shortcodes/menu.php:504
+msgid "Filter items from specific category (enter category slug)."
+msgstr ""
+
+#: includes/shortcodes/menu.php:512 includes/theme-options-config.php:678
+msgid "Read more"
+msgstr ""
+
+#: includes/shortcodes/menu.php:532
+msgid "Timeline"
+msgstr ""
+
+#: includes/shortcodes/menu.php:536
+msgid "Icons Set"
+msgstr ""
+
+#: includes/shortcodes/menu.php:549
+msgid "Products Carousel"
+msgstr ""
+
+#: includes/shortcodes/menu.php:562
+msgid ""
+"Specify product categories ID's (separated by comma) of items that you want "
+"to display."
+msgstr ""
+
+#: includes/shortcodes/menu.php:593
+msgid "Accordion"
+msgstr ""
+
+#: includes/shortcodes/menu.php:608
+msgid "Tabs"
+msgstr ""
+
+#: includes/template-functions.php:152
+#: woocommerce/single-product/product-image.php:46
+msgid "Placeholder"
+msgstr ""
+
+#: includes/template-functions.php:226
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: includes/template-functions.php:559
+msgid "Previous"
+msgstr ""
+
+#: includes/template-functions.php:567
+msgid "Next"
+msgstr ""
+
+#: includes/template-functions.php:614 includes/template-functions.php:621
+msgid "next"
+msgstr ""
+
+#: includes/template-functions.php:615 includes/template-functions.php:627
+msgid "previous"
+msgstr ""
+
+#: includes/template-functions.php:1141
+msgid "all"
+msgstr ""
+
+#: includes/template-functions.php:1277 templates/admin/tour-booking-tab.php:37
+msgid "Overview"
+msgstr ""
+
+#: includes/template-functions.php:1303
+msgid "Photos"
+msgstr ""
+
+#: includes/template-functions.php:1311
+#, php-format
+msgid "Reviews (%d)"
+msgstr ""
+
+#: includes/template-functions.php:1321
+#: templates/parts/tour-booking-form.php:121
+msgid "Book the tour"
+msgstr ""
+
+#: includes/template-functions.php:1403
+msgid "Additional information"
+msgstr ""
+
+#: includes/template-functions.php:1602
+msgctxt "datepicker"
+msgid "January"
+msgstr ""
+
+#: includes/template-functions.php:1603
+msgctxt "datepicker"
+msgid "February"
+msgstr ""
+
+#: includes/template-functions.php:1604
+msgctxt "datepicker"
+msgid "March"
+msgstr ""
+
+#: includes/template-functions.php:1605
+msgctxt "datepicker"
+msgid "April"
+msgstr ""
+
+#: includes/template-functions.php:1606 includes/template-functions.php:1620
+msgctxt "datepicker"
+msgid "May"
+msgstr ""
+
+#: includes/template-functions.php:1607
+msgctxt "datepicker"
+msgid "June"
+msgstr ""
+
+#: includes/template-functions.php:1608
+msgctxt "datepicker"
+msgid "July"
+msgstr ""
+
+#: includes/template-functions.php:1609
+msgctxt "datepicker"
+msgid "August"
+msgstr ""
+
+#: includes/template-functions.php:1610
+msgctxt "datepicker"
+msgid "September"
+msgstr ""
+
+#: includes/template-functions.php:1611
+msgctxt "datepicker"
+msgid "October"
+msgstr ""
+
+#: includes/template-functions.php:1612
+msgctxt "datepicker"
+msgid "November"
+msgstr ""
+
+#: includes/template-functions.php:1613
+msgctxt "datepicker"
+msgid "December"
+msgstr ""
+
+#: includes/template-functions.php:1616
+msgctxt "datepicker"
+msgid "Jan"
+msgstr ""
+
+#: includes/template-functions.php:1617
+msgctxt "datepicker"
+msgid "Feb"
+msgstr ""
+
+#: includes/template-functions.php:1618
+msgctxt "datepicker"
+msgid "Mar"
+msgstr ""
+
+#: includes/template-functions.php:1619
+msgctxt "datepicker"
+msgid "Apr"
+msgstr ""
+
+#: includes/template-functions.php:1621
+msgctxt "datepicker"
+msgid "Jun"
+msgstr ""
+
+#: includes/template-functions.php:1622
+msgctxt "datepicker"
+msgid "Jul"
+msgstr ""
+
+#: includes/template-functions.php:1623
+msgctxt "datepicker"
+msgid "Aug"
+msgstr ""
+
+#: includes/template-functions.php:1624
+msgctxt "datepicker"
+msgid "Sep"
+msgstr ""
+
+#: includes/template-functions.php:1625
+msgctxt "datepicker"
+msgid "Oct"
+msgstr ""
+
+#: includes/template-functions.php:1626
+msgctxt "datepicker"
+msgid "Nov"
+msgstr ""
+
+#: includes/template-functions.php:1627
+msgctxt "datepicker"
+msgid "Dec"
+msgstr ""
+
+#: includes/template-functions.php:1630
+msgctxt "datepicker"
+msgid "Sunday"
+msgstr ""
+
+#: includes/template-functions.php:1631
+msgctxt "datepicker"
+msgid "Monday"
+msgstr ""
+
+#: includes/template-functions.php:1632
+msgctxt "datepicker"
+msgid "Tuesday"
+msgstr ""
+
+#: includes/template-functions.php:1633
+msgctxt "datepicker"
+msgid "Wednesday"
+msgstr ""
+
+#: includes/template-functions.php:1634
+msgctxt "datepicker"
+msgid "Thursday"
+msgstr ""
+
+#: includes/template-functions.php:1635
+msgctxt "datepicker"
+msgid "Friday"
+msgstr ""
+
+#: includes/template-functions.php:1636
+msgctxt "datepicker"
+msgid "Saturday"
+msgstr ""
+
+#: includes/template-functions.php:1639
+msgctxt "datepicker"
+msgid "Sun"
+msgstr ""
+
+#: includes/template-functions.php:1640
+msgctxt "datepicker"
+msgid "Mon"
+msgstr ""
+
+#: includes/template-functions.php:1641
+msgctxt "datepicker"
+msgid "Tue"
+msgstr ""
+
+#: includes/template-functions.php:1642
+msgctxt "datepicker"
+msgid "Wed"
+msgstr ""
+
+#: includes/template-functions.php:1643
+msgctxt "datepicker"
+msgid "Thu"
+msgstr ""
+
+#: includes/template-functions.php:1644
+msgctxt "datepicker"
+msgid "Fri"
+msgstr ""
+
+#: includes/template-functions.php:1645
+msgctxt "datepicker"
+msgid "Sat"
+msgstr ""
+
+#: includes/template-functions.php:1648
+msgctxt "datepicker"
+msgid "Su"
+msgstr ""
+
+#: includes/template-functions.php:1649
+msgctxt "datepicker"
+msgid "Mo"
+msgstr ""
+
+#: includes/template-functions.php:1650
+msgctxt "datepicker"
+msgid "Tu"
+msgstr ""
+
+#: includes/template-functions.php:1651
+msgctxt "datepicker"
+msgid "We"
+msgstr ""
+
+#: includes/template-functions.php:1652
+msgctxt "datepicker"
+msgid "Th"
+msgstr ""
+
+#: includes/template-functions.php:1653
+msgctxt "datepicker"
+msgid "Fr"
+msgstr ""
+
+#: includes/template-functions.php:1654
+msgctxt "datepicker"
+msgid "Sa"
+msgstr ""
+
+#: includes/theme-options-config.php:11
+msgid "Theme Settings"
+msgstr ""
+
+#: includes/theme-options-config.php:15 includes/theme-options-config.php:99
+msgid "General"
+msgstr ""
+
+#: includes/theme-options-config.php:21
+msgid "Update Notifier"
+msgstr ""
+
+#: includes/theme-options-config.php:22
+msgid "Switch on if you would like to receive update noticies."
+msgstr ""
+
+#: includes/theme-options-config.php:28
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/theme-options-config.php:33
+msgid "Placeholder Image"
+msgstr ""
+
+#: includes/theme-options-config.php:34
+msgid "Recommended size is 1140x760px."
+msgstr ""
+
+#: includes/theme-options-config.php:39
+msgid "Google Map API Key"
+msgstr ""
+
+#: includes/theme-options-config.php:40
+msgid "Enter API key in case Google Maps do not render."
+msgstr ""
+
+#: includes/theme-options-config.php:47
+msgid "Header"
+msgstr ""
+
+#: includes/theme-options-config.php:53
+msgid "Logo"
+msgstr ""
+
+#: includes/theme-options-config.php:57
+msgid "Logo Type"
+msgstr ""
+
+#: includes/theme-options-config.php:66
+msgid "Text"
+msgstr ""
+
+#: includes/theme-options-config.php:74
+msgid "Logo Image"
+msgstr ""
+
+#: includes/theme-options-config.php:75
+msgid "Recommended size is 180x30px."
+msgstr ""
+
+#: includes/theme-options-config.php:85
+msgid "Logo Image for Retina"
+msgstr ""
+
+#: includes/theme-options-config.php:86
+msgid "Recommended size is 360x60px."
+msgstr ""
+
+#: includes/theme-options-config.php:103
+msgid "Sticky Header"
+msgstr ""
+
+#: includes/theme-options-config.php:109
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: includes/theme-options-config.php:120
+msgid "Working Hours"
+msgstr ""
+
+#: includes/theme-options-config.php:125
+msgctxt "admin area"
+msgid "Show Login and Signup Links"
+msgstr ""
+
+#: includes/theme-options-config.php:133 includes/theme-options-config.php:137
+msgctxt "admin area"
+msgid "Login and Signup links"
+msgstr ""
+
+#: includes/theme-options-config.php:141 includes/theme-options-config.php:145
+msgctxt "admin area"
+msgid "Login link"
+msgstr ""
+
+#: includes/theme-options-config.php:149
+msgctxt "admin area"
+msgid "My Account link only"
+msgstr ""
+
+#: includes/theme-options-config.php:158
+msgid "Show Search"
+msgstr ""
+
+#: includes/theme-options-config.php:167
+msgid "Default Header Image"
+msgstr ""
+
+#: includes/theme-options-config.php:172
+msgid "Use Default Image"
+msgstr ""
+
+#: includes/theme-options-config.php:173
+msgid "For archive and search pages."
+msgstr ""
+
+#: includes/theme-options-config.php:197
+msgid "Image Repeat"
+msgstr ""
+
+#: includes/theme-options-config.php:261
+msgid "Footer"
+msgstr ""
+
+#: includes/theme-options-config.php:267
+msgid "Layout"
+msgstr ""
+
+#: includes/theme-options-config.php:272 includes/theme-options-config.php:276
+#: includes/theme-options-config.php:280
+#, php-format
+msgid "%s Columns"
+msgstr ""
+
+#: includes/theme-options-config.php:287
+msgid "Text Note"
+msgstr ""
+
+#: includes/theme-options-config.php:301 includes/theme-options-config.php:345
+msgid "Tours Page"
+msgstr ""
+
+#: includes/theme-options-config.php:305
+msgid "Page"
+msgstr ""
+
+#: includes/theme-options-config.php:306
+msgid "Tours archive/search page."
+msgstr ""
+
+#: includes/theme-options-config.php:319
+msgid "Display"
+msgstr ""
+
+#: includes/theme-options-config.php:333
+msgid "Show Sidebar"
+msgstr ""
+
+#: includes/theme-options-config.php:339
+msgid "Show Search Form"
+msgstr ""
+
+#: includes/theme-options-config.php:349
+msgid "Tours Page and Tour Category Pages"
+msgstr ""
+
+#: includes/theme-options-config.php:363
+msgid "Display Style"
+msgstr ""
+
+#: includes/theme-options-config.php:368
+msgid "List"
+msgstr ""
+
+#: includes/theme-options-config.php:372
+msgid "Grid"
+msgstr ""
+
+#: includes/theme-options-config.php:381
+msgid "Columns Number"
+msgstr ""
+
+#: includes/theme-options-config.php:407
+msgid "Item Price Style"
+msgstr ""
+
+#: includes/theme-options-config.php:408
+msgid "Item style display mode."
+msgstr ""
+
+#: includes/theme-options-config.php:417
+msgid "Highlighted"
+msgstr ""
+
+#: includes/theme-options-config.php:430
+msgid "Description Words Limit"
+msgstr ""
+
+#: includes/theme-options-config.php:431
+msgid "Limits the length of the item description."
+msgstr ""
+
+#: includes/theme-options-config.php:440
+msgid "Show Tour Categories"
+msgstr ""
+
+#: includes/theme-options-config.php:441
+msgid "Shows category icons for each item."
+msgstr ""
+
+#: includes/theme-options-config.php:447
+msgid "Default Tour Sorting"
+msgstr ""
+
+#: includes/theme-options-config.php:465
+msgid "Booking Form"
+msgstr ""
+
+#: includes/theme-options-config.php:469
+msgid "Earliest Booking Time"
+msgstr ""
+
+#: includes/theme-options-config.php:470
+msgid "Number of days before the tour the booking starts."
+msgstr ""
+
+#: includes/theme-options-config.php:480
+msgid "Latest Booking Time"
+msgstr ""
+
+#: includes/theme-options-config.php:481
+msgid "Number of days before the tour the booking stops."
+msgstr ""
+
+#: includes/theme-options-config.php:491
+msgctxt "theme options, booking form location"
+msgid "Location on Desktop"
+msgstr ""
+
+#: includes/theme-options-config.php:505
+msgctxt "theme options, booking form location"
+msgid "Location on Mobile"
+msgstr ""
+
+#: includes/theme-options-config.php:519
+msgid "Redirect to"
+msgstr ""
+
+#: includes/theme-options-config.php:520
+msgid "Redirect user after successful booking."
+msgstr ""
+
+#: includes/theme-options-config.php:525
+msgid "Send to checkout page"
+msgstr ""
+
+#: includes/theme-options-config.php:529
+msgid "Send to cart page"
+msgstr ""
+
+#: includes/theme-options-config.php:533
+msgid "Use product settings"
+msgstr ""
+
+#: includes/theme-options-config.php:537
+msgid "Stay on the same page"
+msgstr ""
+
+#: includes/theme-options-config.php:546
+msgid "\"Return to Shop\" target"
+msgstr ""
+
+#: includes/theme-options-config.php:547
+msgid "Choose a page to send a user to in case the cart is empty."
+msgstr ""
+
+#: includes/theme-options-config.php:552
+msgid "Shop"
+msgstr ""
+
+#: includes/theme-options-config.php:571
+msgid "Tour Details Page"
+msgstr ""
+
+#: includes/theme-options-config.php:575 includes/theme-options-config.php:699
+#: includes/theme-options-config.php:719 includes/theme-options-config.php:871
+msgid "Social Sharing"
+msgstr ""
+
+#: includes/theme-options-config.php:576
+msgid "Turn on to show social media buttons on the tour details page."
+msgstr ""
+
+#: includes/theme-options-config.php:582
+msgid "Show Related Tours"
+msgstr ""
+
+#: includes/theme-options-config.php:583
+msgid "Turn on to show related tours on the tour details page."
+msgstr ""
+
+#: includes/theme-options-config.php:589
+msgid "Top Section Attributes"
+msgstr ""
+
+#: includes/theme-options-config.php:604
+msgid "Tour Badges"
+msgstr ""
+
+#: includes/theme-options-config.php:609
+msgid "Search Form"
+msgstr ""
+
+#: includes/theme-options-config.php:615
+msgid "Search Tour"
+msgstr ""
+
+#: includes/theme-options-config.php:621
+msgid "Find your dream tour today!"
+msgstr ""
+
+#: includes/theme-options-config.php:625
+msgid "Additional Fields"
+msgstr ""
+
+#: includes/theme-options-config.php:638
+msgid "Tour Parent Category"
+msgstr ""
+
+#: includes/theme-options-config.php:639
+msgid ""
+"Select a parent if you would like to refine the list of searchable "
+"categories."
+msgstr ""
+
+#: includes/theme-options-config.php:665
+msgid "Blog"
+msgstr ""
+
+#: includes/theme-options-config.php:672
+msgid "Blog Page"
+msgstr ""
+
+#: includes/theme-options-config.php:676
+msgid "Read More Link Text"
+msgstr ""
+
+#: includes/theme-options-config.php:682
+msgid "Excerpt"
+msgstr ""
+
+#: includes/theme-options-config.php:683
+msgid "Turn on to automatically shorten the posts on the blog page"
+msgstr ""
+
+#: includes/theme-options-config.php:688
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/theme-options-config.php:700 includes/theme-options-config.php:720
+msgid "Turn on to show social media buttons under the post."
+msgstr ""
+
+#: includes/theme-options-config.php:709
+msgid "Single Post Page"
+msgstr ""
+
+#: includes/theme-options-config.php:713
+msgid "Show Post Tags"
+msgstr ""
+
+#: includes/theme-options-config.php:726
+msgid "Show \"About Author\" Section"
+msgstr ""
+
+#: includes/theme-options-config.php:736
+msgid "FAQs Page"
+msgstr ""
+
+#: includes/theme-options-config.php:742
+msgctxt "theme options"
+msgid "Categories Sort by"
+msgstr ""
+
+#: includes/theme-options-config.php:756
+msgid "Show Question Form"
+msgstr ""
+
+#: includes/theme-options-config.php:762
+msgid "New Question Notification"
+msgstr ""
+
+#: includes/theme-options-config.php:772
+msgid "Email Receiver"
+msgstr ""
+
+#: includes/theme-options-config.php:776
+msgid "Admin email"
+msgstr ""
+
+#: includes/theme-options-config.php:780 includes/theme-options-config.php:789
+msgid "Custom email"
+msgstr ""
+
+#: includes/theme-options-config.php:803
+msgid "Social Media"
+msgstr ""
+
+#: includes/theme-options-config.php:810
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/theme-options-config.php:816
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/theme-options-config.php:822
+msgid "Google+ URL"
+msgstr ""
+
+#: includes/theme-options-config.php:828
+msgid "Pinterest URL"
+msgstr ""
+
+#: includes/theme-options-config.php:834
+msgid "Linkedin URL"
+msgstr ""
+
+#: includes/theme-options-config.php:840
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/theme-options-config.php:846
+msgid "Dribbble URL"
+msgstr ""
+
+#: includes/theme-options-config.php:852
+msgid "Tumblr URL"
+msgstr ""
+
+#: includes/theme-options-config.php:858
+msgid "Vkontakte URL"
+msgstr ""
+
+#: includes/theme-options-config.php:864
+msgid "Additional URLs"
+msgstr ""
+
+#: includes/theme-options-config.php:877
+msgid "Google+"
+msgstr ""
+
+#: includes/theme-options-config.php:883
+msgid "Facebook"
+msgstr ""
+
+#: includes/theme-options-config.php:889
+msgid "Twitter"
+msgstr ""
+
+#: includes/theme-options-config.php:895
+msgid "Stumbleupon"
+msgstr ""
+
+#: includes/theme-options-config.php:901
+msgid "Linkedin"
+msgstr ""
+
+#: includes/theme-options-config.php:907
+msgid "Pinterest"
+msgstr ""
+
+#: includes/theme-options-config.php:913
+msgid "Vkontakte"
+msgstr ""
+
+#: includes/theme-options-config.php:946
+#, php-format
+msgid "Is Active Badge #%d"
+msgstr ""
+
+#: includes/theme-options-config.php:953
+#, php-format
+msgid "Title #%d"
+msgstr ""
+
+#: includes/theme-options-config.php:964
+#, php-format
+msgid "Color #%d"
+msgstr ""
+
+#: includes/theme-options-config.php:980
+msgid "Please install and activate the WooCommerce plugin."
+msgstr ""
+
+#: includes/theme-options-config.php:985
+msgid "Show Shopping Cart"
+msgstr ""
+
+#: includes/theme-options-config.php:998
+#, php-format
+msgid "Link #%d"
+msgstr ""
+
+#: includes/theme-options-config.php:1005
+#, php-format
+msgid "Icon #%d"
+msgstr ""
+
+#: includes/theme-options-config.php:1017
+#, php-format
+msgid "Url #%d"
+msgstr ""
+
+#: includes/theme-options-functions.php:291
+msgctxt "theme options, booking form location"
+msgid "Sidebar"
+msgstr ""
+
+#: includes/theme-options-functions.php:292
+msgctxt "theme options, booking form location"
+msgid "Above Tabs"
+msgstr ""
+
+#: includes/theme-options-functions.php:293
+msgctxt "theme options, booking form location"
+msgid "Under Tabs"
+msgstr ""
+
+#: includes/theme-options-functions.php:314
+msgctxt "theme options, desc posfix"
+msgid " (desc)"
+msgstr ""
+
+#: includes/theme-options-functions.php:317
+msgctxt "admin area"
+msgid "Name"
+msgstr ""
+
+#: includes/theme-options-functions.php:318
+msgctxt "admin area"
+msgid "Slug"
+msgstr ""
+
+#: includes/theme-options-functions.php:319
+msgctxt "admin area"
+msgid "Description"
+msgstr ""
+
+#: includes/theme-options-functions.php:320
+msgctxt "admin area"
+msgid "Term ID"
+msgstr ""
+
+#: includes/theme-options-functions.php:321
+msgctxt "admin area"
+msgid "ID"
+msgstr ""
+
+#: templates/admin/tour-booking-row.php:18
+msgid "Monday"
+msgstr ""
+
+#: templates/admin/tour-booking-row.php:19
+msgid "Tuesday"
+msgstr ""
+
+#: templates/admin/tour-booking-row.php:20
+msgid "Wednesday"
+msgstr ""
+
+#: templates/admin/tour-booking-row.php:21
+msgid "Thursday"
+msgstr ""
+
+#: templates/admin/tour-booking-row.php:22
+msgid "Friday"
+msgstr ""
+
+#: templates/admin/tour-booking-row.php:23
+msgid "Saturday"
+msgstr ""
+
+#: templates/admin/tour-booking-row.php:24
+msgid "Sunday"
+msgstr ""
+
+#: templates/admin/tour-booking-row.php:33
+msgid "Week days"
+msgstr ""
+
+#: templates/admin/tour-booking-row.php:34
+msgid "Exact dates"
+msgstr ""
+
+#: templates/admin/tour-booking-row.php:56
+msgid "Start date"
+msgstr ""
+
+#: templates/admin/tour-booking-row.php:60
+msgid "End date"
+msgstr ""
+
+#: templates/admin/tour-booking-row.php:95
+msgid "Add Date"
+msgstr ""
+
+#: templates/admin/tour-booking-row.php:119
+msgid "Add Time"
+msgstr ""
+
+#: templates/admin/tour-booking-row.php:132
+msgid "Number of tickets per tour"
+msgstr ""
+
+#: templates/admin/tour-booking-row.php:138
+msgid "Special price"
+msgstr ""
+
+#: templates/admin/tour-booking-row.php:144
+msgid "Mode"
+msgstr ""
+
+#: templates/admin/tour-booking-row.php:161
+msgid "Is active?"
+msgstr ""
+
+#: templates/admin/tour-booking-row.php:177
+msgid "remove"
+msgstr ""
+
+#: templates/admin/tour-booking-tab.php:28
+msgid "This section is locked for translations. "
+msgstr ""
+
+#: templates/admin/tour-booking-tab.php:35
+msgid "Dates"
+msgstr ""
+
+#: templates/admin/tour-booking-tab.php:37
+msgid "Number of tickets avaialable for a tour each day."
+msgstr ""
+
+#: templates/admin/tour-booking-tab.php:43
+msgid "Hide Calendar"
+msgstr ""
+
+#: templates/admin/tour-booking-tab.php:43
+msgid "Preview Calendar"
+msgstr ""
+
+#: templates/admin/tour-booking-tab.php:49
+msgid "Add Period"
+msgstr ""
+
+#: templates/admin/tour-booking-tab.php:51
+msgid "Save"
+msgstr ""
+
+#: templates/admin/tour-booking-tab.php:53
+msgid "Please use \"Update\" button to save changes."
+msgstr ""
+
+#: templates/admin/tour-booking-tab.php:59
+msgid "Please add ranges with information about tour dates."
+msgstr ""
+
+#: templates/header/banner.php:67 templates/parts/search-result-tour.php:93
+#: templates/shortcodes/tours_list.php:116 templates/tour/loop-list.php:92
+#: woocommerce/single-product-reviews.php:36
+#, php-format
+msgid "1 review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/header/shop-cart.php:29 woocommerce/myaccount/form-login.php:37
+msgid "Login"
+msgstr ""
+
+#: templates/header/shop-cart.php:30
+msgid "Signup"
+msgstr ""
+
+#: templates/header/shop-cart.php:31
+msgid "Logout"
+msgstr ""
+
+#: templates/header/shop-cart.php:32 woocommerce/checkout/thankyou.php:33
+msgid "My Account"
+msgstr ""
+
+#: templates/parts/about-author.php:17
+msgid "About Author"
+msgstr ""
+
+#: templates/parts/article-info.php:61
+msgid "No Comments"
+msgstr ""
+
+#: templates/parts/article-info.php:61
+msgid "1 Comment"
+msgstr ""
+
+#: templates/parts/article-info.php:61
+msgid "% Comments"
+msgstr ""
+
+#: templates/parts/faq-question-form.php:17
+msgid "Not found your question?"
+msgstr ""
+
+#: templates/parts/faq-question-form.php:18
+msgid "Fill in the form below"
+msgstr ""
+
+#: templates/parts/post-navigation.php:12
+msgid "Previous post"
+msgstr ""
+
+#: templates/parts/post-navigation.php:18
+msgid "Next post"
+msgstr ""
+
+#: templates/parts/post-tags.php:15
+msgid "Tags"
+msgstr ""
+
+#: templates/parts/search-result-tour.php:104
+#: templates/shortcodes/tours_list.php:126 templates/tour/loop-list.php:103
+msgid "per person"
+msgstr ""
+
+#: templates/parts/search-result-tour.php:109
+#: templates/shortcodes/tours_list.php:131 templates/tour/loop-list.php:108
+msgid "view tour"
+msgstr ""
+
+#: templates/parts/tour-booking-form.php:134
+msgid "Book now"
+msgstr ""
+
+#: templates/shortcodes/faq_question_form.php:33
+#: templates/shortcodes/faq_question_form_email.php:18
+msgid "Question"
+msgstr ""
+
+#: templates/shortcodes/faq_question_form.php:37
+msgid "Send Question"
+msgstr ""
+
+#: templates/shortcodes/faq_question_form_email.php:16
+msgid "New question for FAQs"
+msgstr ""
+
+#: templates/shortcodes/faq_question_form_email.php:17
+msgid "From"
+msgstr ""
+
+#: templates/shortcodes/mailchimp_form.php:27
+msgid ""
+"Please enter the MailChimp List ID settings in the MailChimp Form "
+"[mailchimp_form] shortcode."
+msgstr ""
+
+#: templates/shortcodes/tour_search_form.php:37
+#: templates/shortcodes/tour_search_form_horizontal.php:106
+msgctxt "placeholder"
+msgid "Search Tour"
+msgstr ""
+
+#: templates/shortcodes/tour_search_form.php:54
+#: templates/shortcodes/tour_search_form_horizontal.php:151
+msgid "Find Tours"
+msgstr ""
+
+#: templates/tour/content-tour_category.php:52
+msgid "tour"
+msgid_plural "tours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/tour/content-tour_category.php:55
+msgid "See tours"
+msgstr ""
+
+#: templates/tour/price-decoration.php:14
+msgid "One tour per person"
+msgstr ""
+
+#: templates/tour/related-tours.php:17
+msgid "You May Also Like"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:920
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2626
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3679
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3251
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3044
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1027
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1214
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3040
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version is unknown\""
+msgid "unknown"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2647
+#: woocommerce/includes/reports/WC_Report_ADT_General.php:236
+#: woocommerce/includes/reports/WC_Report_ADT_Tourfull.php:212
+msgid "Status"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %s"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2776
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2809
+msgid "Install"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2815
+#: vendor/themedelight/components/TdThemeUpdater.php:136
+msgid "Update"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2818
+msgid "Activate"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2849
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2851
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2892
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2894
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3000
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3026
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3250
+msgid "Plugin activation failed."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3590
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3593
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3595
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3599
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3601
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3604
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3615
+msgid "Show Details"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3604
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3615
+msgid "Hide Details"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3606
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3608
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3611
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3617
+msgid "All installations have been completed."
+msgstr ""
+
+#: vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3619
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: vendor/themedelight/components/TdThemeUpdater.php:135
+#: vendor/themedelight/views/theme-updater-update-notification.php:14
+msgid "Theme Updates"
+msgstr ""
+
+#: vendor/themedelight/components/TdThemeUpdater.php:156
+msgid "New Version"
+msgstr ""
+
+#: vendor/themedelight/views/theme-updater-update-notification.php:16
+#, php-format
+msgid "There is a new version of the %s Theme available."
+msgstr ""
+
+#: vendor/themedelight/views/theme-updater-update-notification.php:16
+#, php-format
+msgid "You currently have version %s installed. Please update to version %s."
+msgstr ""
+
+#: vendor/themedelight/views/theme-updater-update-notification.php:20
+msgid "Update Instructions"
+msgstr ""
+
+#: vendor/themedelight/views/theme-updater-update-notification.php:21
+#, php-format
+msgid ""
+"To update %s, simply download the latest files from %s and install the "
+"upgraded version."
+msgstr ""
+
+#: vendor/themedelight/views/theme-updater-update-notification.php:22
+msgid "Quick guide"
+msgstr ""
+
+#: vendor/themedelight/views/theme-updater-update-notification.php:24
+msgid "Download the most recent Theme Files"
+msgstr ""
+
+#: vendor/themedelight/views/theme-updater-update-notification.php:25
+msgid "Install the Updated Theme"
+msgstr ""
+
+#: vendor/themedelight/views/theme-updater-update-notification.php:31
+msgid "Changelog"
+msgstr ""
+
+#: vendor/vafpress/bootstrap.php:88 vendor/vafpress/classes/option.php:364
+#: vendor/vafpress/classes/option.php:389
+msgid "Successful"
+msgstr ""
+
+#: vendor/vafpress/bootstrap.php:99
+msgid "Unauthorized function"
+msgstr ""
+
+#: vendor/vafpress/classes/metabox.php:35
+msgid "[Development Mode] "
+msgstr ""
+
+#: vendor/vafpress/classes/metabox.php:566
+#: vendor/vafpress/classes/metabox/alchemy.php:493
+#: woocommerce/cart/mini-cart.php:64
+msgid "Remove"
+msgstr ""
+
+#: vendor/vafpress/classes/metabox.php:588
+#: vendor/vafpress/classes/metabox/alchemy.php:515
+msgid "Add More"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:47 vendor/vafpress/classes/option.php:48
+msgid "Vafpress Options"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:61
+msgid "Option Key is required"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:63
+msgid "Template Array/File is required"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:65
+msgid "Page Slug is required"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:167
+msgid "Development Mode is Active, options"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:167
+msgid " values won"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:167
+msgid "t be saved into database."
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:306
+msgid "Can not be empty"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:331
+msgid "Invalid data"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:394
+msgid "Unverified Access"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:460
+msgid "Invalid template supplied"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:473
+msgid "Utility"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:479
+#: vendor/vafpress/views/option/restore.php:13
+msgid "Restore Default"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:488
+msgid "Export/Import"
+msgstr ""
+
+#: vendor/vafpress/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr ""
+
+#: vendor/vafpress/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr ""
+
+#: vendor/vafpress/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr ""
+
+#: vendor/vafpress/classes/shortcodegenerator.php:260
+msgid "Insert"
+msgstr ""
+
+#: vendor/vafpress/classes/shortcodegenerator.php:261
+msgid "Cancel"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:13
+msgid "Value needs to be Alphabet"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:15
+msgid "Value needs to be Numeric"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:16
+msgid "Value needs to be Valid Email"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:17
+msgid "Value needs to be Valid URL"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:22
+msgid "This is required"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:30
+msgid "Import failed"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:31
+msgid "Export succeed, copy the JSON formatted options"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:32
+msgid "Export failed"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:34
+msgid "Options identical to default"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:35
+msgid "Restoration failed"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:43
+msgid "Select option(s)"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:45
+msgid "Select an Icon"
+msgstr ""
+
+#: vendor/vafpress/views/control/upload.php:5
+msgid "Choose File"
+msgstr ""
+
+#: vendor/vafpress/views/option/impexp.php:4
+#: vendor/vafpress/views/option/impexp.php:14
+msgid "Import"
+msgstr ""
+
+#: vendor/vafpress/views/option/impexp.php:7
+msgid "Import Options"
+msgstr ""
+
+#: vendor/vafpress/views/option/impexp.php:27
+#: vendor/vafpress/views/option/impexp.php:37
+msgid "Export"
+msgstr ""
+
+#: vendor/vafpress/views/option/impexp.php:30
+msgid "Export Options"
+msgstr ""
+
+#: vendor/vafpress/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr ""
+
+#: vendor/vafpress/views/option/restore.php:7
+msgid "Restore options to initial default values."
+msgstr ""
+
+#: vendor/vafpress/views/option/restore.php:16
+msgid ""
+"** Please make sure that you have a backup copy of your current settings. "
+"Once you click this button, your current settings will be gone."
+msgstr ""
+
+#: vendor/vafpress/views/option/set.php:69
+#: vendor/vafpress/views/option/set.php:84
+msgid "Save Changes"
+msgstr ""
+
+#: vendor/vafpress/views/option/set.php:70
+#: vendor/vafpress/views/option/set.php:85
+msgid "Saving Now"
+msgstr ""
+
+#: vendor/vafpress/views/option/set.php:93
+msgid "This option panel is built using"
+msgstr ""
+
+#: vendor/vafpress/views/option/set.php:93
+msgid "Vafpress Framework"
+msgstr ""
+
+#: vendor/vafpress/views/option/set.php:93
+msgid "powered by"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:19
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:24
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:24 woocommerce/cart/mini-cart.php:79
+#: woocommerce/checkout/review-order.php:64
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:78 woocommerce/cart/cart.php:35
+#: woocommerce/cart/cart.php:144 woocommerce/checkout/review-order.php:21
+#: woocommerce/checkout/review-order.php:50
+#: woocommerce/checkout/review-order.php:111
+#: woocommerce/order/order-details-item.php:64
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:94
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:82
+#: woocommerce/checkout/review-order.php:20
+#: woocommerce/checkout/review-order.php:35
+#: woocommerce/order/order-details-item.php:23
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:57
+msgid "Delete"
+msgstr ""
+
+#: woocommerce/cart/cart.php:63
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:105
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:162
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:162
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:162
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:169
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:59
+msgid "You may be interested in"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:73
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:85
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:86
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:46
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:21
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:25
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:27
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:31
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:39 woocommerce/checkout/thankyou.php:87
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+msgid "Order Number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:55
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:61
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:68
+msgid "Payment Method:"
+msgstr ""
+
+#: woocommerce/content-product.php:69
+msgid "view"
+msgstr ""
+
+#: woocommerce/content-product_cat.php:66
+msgid "product"
+msgid_plural "products"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/content-product_cat.php:69
+msgid "See products"
+msgstr ""
+
+#: woocommerce/includes/WC_Admin_Attributes_Extended.php:28
+msgid "Attributes"
+msgstr ""
+
+#: woocommerce/includes/WC_Admin_Attributes_Extended.php:123
+msgid "Determines what icon will be used for this attribute."
+msgstr ""
+
+#: woocommerce/includes/WC_Tour_Integration_Helper.php:154
+#: woocommerce/includes/reports/WC_Report_ADT_General.php:230
+#: woocommerce/includes/reports/WC_Report_ADT_Tourfull.php:208
+msgid "Tour"
+msgstr ""
+
+#: woocommerce/includes/WC_Tour_Integration_Helper.php:559
+#, php-format
+msgid "There are no more tickets available for %s on %s."
+msgstr ""
+
+#: woocommerce/includes/WC_Tour_Integration_Helper.php:567
+#, php-format
+msgid "Only %s tickets available for %s on %s."
+msgstr ""
+
+#: woocommerce/includes/WC_Tour_Integration_Helper.php:734
+#: woocommerce/includes/WC_Tour_Integration_Helper.php:741
+msgid "Search results"
+msgstr ""
+
+#: woocommerce/includes/WC_Tour_Integration_Helper.php:827
+msgid "Return To Home"
+msgstr ""
+
+#: woocommerce/includes/WC_Tour_Integration_Helper.php:831
+msgid "Return To Tours"
+msgstr ""
+
+#: woocommerce/includes/WC_Tour_Integration_Helper_Admin.php:216
+msgid "Variable Tour"
+msgstr ""
+
+#: woocommerce/includes/WC_Tour_Integration_Helper_Admin.php:217
+msgid "Check this is your tour has different options."
+msgstr ""
+
+#: woocommerce/includes/WC_Tour_Integration_Helper_Admin.php:353
+msgid "Tour Booking"
+msgstr ""
+
+#: woocommerce/includes/WC_Tour_Integration_Helper_Admin.php:502
+msgid "Detailed"
+msgstr ""
+
+#: woocommerce/includes/WC_Tour_Integration_Helper_Admin.php:503
+msgid "Each row contains data from a single order."
+msgstr ""
+
+#: woocommerce/includes/WC_Tour_Integration_Helper_Admin.php:511
+msgid "Grouped"
+msgstr ""
+
+#: woocommerce/includes/WC_Tour_Integration_Helper_Admin.php:512
+msgid "Each row contains data grouped by tour, date and order status."
+msgstr ""
+
+#: woocommerce/includes/reports/WC_Report_ADT_Base.php:46
+msgid "Year"
+msgstr ""
+
+#: woocommerce/includes/reports/WC_Report_ADT_Base.php:47
+msgid "Last Month"
+msgstr ""
+
+#: woocommerce/includes/reports/WC_Report_ADT_Base.php:48
+msgid "This Month"
+msgstr ""
+
+#: woocommerce/includes/reports/WC_Report_ADT_Base.php:49
+msgid "7 Day"
+msgstr ""
+
+#: woocommerce/includes/reports/WC_Report_ADT_Base.php:82
+msgid "Purge Cache"
+msgstr ""
+
+#: woocommerce/includes/reports/WC_Report_ADT_Base.php:115
+#: woocommerce/includes/reports/WC_Report_ADT_Tourfull.php:211
+msgid "Order Date"
+msgstr ""
+
+#: woocommerce/includes/reports/WC_Report_ADT_Base.php:116
+#: woocommerce/includes/reports/WC_Report_ADT_General.php:231
+#: woocommerce/includes/reports/WC_Report_ADT_Tourfull.php:209
+msgid "Tour Date"
+msgstr ""
+
+#: woocommerce/includes/reports/WC_Report_ADT_Base.php:145
+msgid "Filter by"
+msgstr ""
+
+#: woocommerce/includes/reports/WC_Report_ADT_General.php:27
+#: woocommerce/includes/reports/WC_Report_ADT_Tourfull.php:29
+msgid "Export CSV"
+msgstr ""
+
+#: woocommerce/includes/reports/WC_Report_ADT_General.php:232
+#: woocommerce/includes/reports/WC_Report_ADT_Tourfull.php:210
+msgid "Tickets"
+msgstr ""
+
+#: woocommerce/includes/reports/WC_Report_ADT_General.php:234
+msgid "Stock"
+msgstr ""
+
+#: woocommerce/includes/reports/WC_Report_ADT_General.php:237
+msgid "Orders"
+msgstr ""
+
+#: woocommerce/includes/reports/WC_Report_ADT_General.php:238
+msgid "Emails"
+msgstr ""
+
+#: woocommerce/includes/reports/WC_Report_ADT_General.php:239
+#: woocommerce/includes/reports/WC_Report_ADT_Tourfull.php:222
+msgid "URL"
+msgstr ""
+
+#: woocommerce/includes/reports/WC_Report_ADT_General.php:264
+#: woocommerce/includes/reports/WC_Report_ADT_Tourfull.php:250
+msgid "No records found in this period"
+msgstr ""
+
+#: woocommerce/includes/reports/WC_Report_ADT_Tourfull.php:215
+msgid "Contacts"
+msgstr ""
+
+#: woocommerce/includes/reports/WC_Report_ADT_Tourfull.php:217
+msgid "First Name"
+msgstr ""
+
+#: woocommerce/includes/reports/WC_Report_ADT_Tourfull.php:218
+msgid "Last Name"
+msgstr ""
+
+#: woocommerce/includes/reports/base-view.php:26
+msgid "Custom:"
+msgstr ""
+
+#: woocommerce/includes/reports/base-view.php:44
+msgid "Go"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:44
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:48
+#: woocommerce/myaccount/form-login.php:98
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:56
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:58
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:62
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:75
+#: woocommerce/myaccount/form-login.php:109
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:84
+msgid "Username"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:22
+msgid "Customer Details"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:27
+#: woocommerce/order/order-details-customer.php:28
+msgid "Note"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:41
+#: woocommerce/order/order-details-customer.php:42
+msgid "Telephone"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:57
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:60
+#: woocommerce/order/order-details-customer.php:71
+#: woocommerce/single-product/meta.php:41
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:68
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:35
+msgid "based on"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:44
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:57
+msgid "Leave a Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:35
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:53
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:40
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:48
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:56
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:25
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:28
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:61
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:66
+msgid "You may also like"
+msgstr ""
+
+#: woocommerce/widgets/templates/recent_reviews.php:46
+msgctxt "by comment author"
+msgid "by "
+msgstr ""
+
+#: woocommerce/woocommerce.php:191
+msgid "Filter by Tour Category"
+msgstr ""
